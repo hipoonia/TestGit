@@ -1,0 +1,10 @@
+If you get this error : 
+$ git clone https?://github.com/hipoonia/TestGit.git
+Cloning into 'TestGit'...
+fatal: protocol '' is not supported
+
+1. Try restarting the git bash.
+or
+2. Remove the space between git, clone and https and re enter a space.
+Because earlier it might be some other invisible character other than actual space.
+Worked for so.. 
