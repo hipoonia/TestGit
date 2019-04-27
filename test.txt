@@ -7,4 +7,4 @@ fatal: protocol '' is not supported
 or
 2. Remove the space between git, clone and https and re enter a space.
 Because earlier it might be some other invisible character other than actual space.
-Worked for so.. 
+Worked for me so.. 
